@@ -33,4 +33,3 @@ This project involves exploratory data analysis (EDA) on a sales dataset to iden
 - These insights can help businesses focus marketing campaigns and stock planning accordingly.
 
 ---
-http://localhost:8888/files/Downloads/Temp%20file/Diwali_Sales_Analysis.ipynb?_xsrf=2%7C5ed8801d%7C5262a70d674850980e2146496ae2a3e4%7C1753450026

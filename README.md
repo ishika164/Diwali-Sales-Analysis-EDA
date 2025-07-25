@@ -32,10 +32,4 @@ This project involves exploratory data analysis (EDA) on a sales dataset to iden
 - Most purchased product categories: Food, Clothing, and Electronics.
 - These insights can help businesses focus marketing campaigns and stock planning accordingly.
 
-## 🖼️ Output
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
-
-## 📂 File
-- `http://localhost:8888/notebooks/Downloads/Temp%20file/Diwali_Sales_Analysis.ipynb`: Complete analysis in Jupyter Notebook.
-
 ---
